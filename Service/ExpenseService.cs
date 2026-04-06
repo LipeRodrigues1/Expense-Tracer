@@ -64,6 +64,49 @@ public class ExpenseService
     {
         var expenses = GetExpenses();
         var expense = expenses.FirstOrDefault(e => e.Id == id);
+
+        if (expense == null)
+        {
+            Console.WriteLine("Expense don't exists!");
+            return;
+        }
+
+        expenses.Remove(expense);
+        SaveExpenses(expenses);
+        Console.WriteLine("Expense removed successfully!");
+    }
+
+    public void Summary()
+    {
+        var expenses = GetExpenses();
+
+        if(expenses == null)
+        {
+            Console.WriteLine("There is no expense!");
+            return;
+        }
+
+        var total = expenses.Sum(e => e.Amount);
+        Console.WriteLine($"Expenses: {total:C}");
+    }
+
+    public void Summary(int month)
+    {
+        var expenses = GetExpenses();
+        if(expenses == null)
+        {
+            Console.WriteLine("There are no expenses");
+            return;
+        }
+        var monthExpenses = expenses.Where(e => e.Date.Month == month);
+
+        if (!monthExpenses.Any())
+        {
+            Console.WriteLine("There are no expenses this month!");
+            return;
+        }
+        monthExpenses.Sum(e => e.Amount);
+        Console.WriteLine($"Summary of the month: {month}: {monthExpenses:C}");
     }
 
 }
