@@ -1,0 +1,15 @@
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\bin\Debug\net10.0\Expense-Tracer.exe
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\bin\Debug\net10.0\Expense-Tracer.deps.json
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\bin\Debug\net10.0\Expense-Tracer.runtimeconfig.json
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\bin\Debug\net10.0\Expense-Tracer.dll
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\bin\Debug\net10.0\Expense-Tracer.pdb
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\obj\Debug\net10.0\Expense-Tracer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\obj\Debug\net10.0\Expense-Tracer.AssemblyInfoInputs.cache
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\obj\Debug\net10.0\Expense-Tracer.AssemblyInfo.cs
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\obj\Debug\net10.0\Expense-Tracer.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\obj\Debug\net10.0\Expense-Tracer.sourcelink.json
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\obj\Debug\net10.0\Expense-Tracer.dll
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\obj\Debug\net10.0\refint\Expense-Tracer.dll
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\obj\Debug\net10.0\Expense-Tracer.pdb
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\obj\Debug\net10.0\Expense-Tracer.genruntimeconfig.cache
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Expense-Tracer\obj\Debug\net10.0\ref\Expense-Tracer.dll
