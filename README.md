@@ -1,11 +1,12 @@
 # 💰 Expense Tracker CLI (C#)
 
-![C#](https://img.shields.io/badge/C%23-.NET-blue)
-![.NET](https://img.shields.io/badge/.NET-Console_App-purple)
-![CLI](https://img.shields.io/badge/Type-CLI-green)
-![JSON](https://img.shields.io/badge/Data-JSON-orange)
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
+![C#](https://img.shields.io/badge/C%23-ASP.NET-blue)
+![MVC](https://img.shields.io/badge/Architecture-MVC-green)
+![JSON](https://img.shields.io/badge/Database-JSON-orange)
+![Roadmap](https://img.shields.io/badge/Roadmap.sh-Project-red)
+![Study Mode](https://img.shields.io/badge/ChatGPT-Study%20Mode-black)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-
 ---
 
 ## 📷 Preview
